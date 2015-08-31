@@ -1,0 +1,50 @@
+<! DOCTYPE html>
+
+	<html>
+
+	<head>
+		<meta charset="utf8" />
+		<link rel="stylesheet" href="cuisine.css" />
+		<title>Janine Cuisine</title>
+	
+	</head>
+	
+		<body>
+		<div class="bloc_page">
+		
+		<header>
+			<div class="logo"> </div>
+	
+			<div class="espace">
+	
+			<input type="submit" value="Se connecter" />
+			<input type="submit" value="S'inscrire" />
+			<input type="submit" value="Mon compte" />
+			<input type="submit" value="Mes rendez-vous" />
+	
+			</div>
+	
+			<div class="titre"> <p class="titre1"> Janine en cuisine ! </p> </div>
+		</header>
+		
+		<section>
+		
+		<article class="presentation">
+			<p>Bonjour et bienvenue sur le site de Janine Cuisine, vous trouverez ci-dessous quelques une de mes prestations à domicile, des exemples de banquets déjà realisés
+			... Et pourquoi pas en idées cadeaux des cours de cuisine à domicile ! Mais pensez à reserver via le formulaire ;)!</p>
+		</article>
+	
+		<aside class="video"></aside>
+	
+	
+		<article class="bloc_texte">
+		<p class="texte"></p>
+		</article>
+	
+		<aside class="coordonnees">
+		<p></p> 
+		<aside>
+	
+		<article class="menus"> </article>
+		</section>
+	</body>
