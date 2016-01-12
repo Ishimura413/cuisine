@@ -1,2 +1,1 @@
-# cuisine
-cuisine
+Ce projet est le tout premier réalisé à la Wild Code School. Il a été fait avec Canonball en une petite semaine afin de se rememorer les bases HTML/CSS. Attention il n'est pas fini et n'est pas responsive, le code est assez sale :p
